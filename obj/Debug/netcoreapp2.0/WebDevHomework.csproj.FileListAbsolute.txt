@@ -1,0 +1,11 @@
+C:\Users\Billy\Documents\rok3\aspreactredux\zad2\WebDevHomework\bin\Debug\netcoreapp2.0\WebDevHomework.deps.json
+C:\Users\Billy\Documents\rok3\aspreactredux\zad2\WebDevHomework\bin\Debug\netcoreapp2.0\WebDevHomework.runtimeconfig.json
+C:\Users\Billy\Documents\rok3\aspreactredux\zad2\WebDevHomework\bin\Debug\netcoreapp2.0\WebDevHomework.runtimeconfig.dev.json
+C:\Users\Billy\Documents\rok3\aspreactredux\zad2\WebDevHomework\bin\Debug\netcoreapp2.0\WebDevHomework.dll
+C:\Users\Billy\Documents\rok3\aspreactredux\zad2\WebDevHomework\bin\Debug\netcoreapp2.0\WebDevHomework.pdb
+C:\Users\Billy\Documents\rok3\aspreactredux\zad2\WebDevHomework\obj\Debug\netcoreapp2.0\WebDevHomework.csprojResolveAssemblyReference.cache
+C:\Users\Billy\Documents\rok3\aspreactredux\zad2\WebDevHomework\obj\Debug\netcoreapp2.0\WebDevHomework.csproj.CoreCompileInputs.cache
+C:\Users\Billy\Documents\rok3\aspreactredux\zad2\WebDevHomework\obj\Debug\netcoreapp2.0\WebDevHomework.AssemblyInfoInputs.cache
+C:\Users\Billy\Documents\rok3\aspreactredux\zad2\WebDevHomework\obj\Debug\netcoreapp2.0\WebDevHomework.AssemblyInfo.cs
+C:\Users\Billy\Documents\rok3\aspreactredux\zad2\WebDevHomework\obj\Debug\netcoreapp2.0\WebDevHomework.dll
+C:\Users\Billy\Documents\rok3\aspreactredux\zad2\WebDevHomework\obj\Debug\netcoreapp2.0\WebDevHomework.pdb
